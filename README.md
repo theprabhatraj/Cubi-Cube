@@ -1,6 +1,6 @@
 # Cubi-Cube
 
-You can download the cubi cube folder to play it in your pc/laptop.
+You can download the "cubi cube2.0" folder to play it in your pc/laptop.
 
 #Either you can simply install the game by double clicking on "install Cubi Cube 2.0.exe" file.
 And follow the instructions.
