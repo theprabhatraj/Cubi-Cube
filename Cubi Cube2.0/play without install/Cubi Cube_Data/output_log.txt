@@ -1,0 +1,134 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 with Max-Q Design (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.6221
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.278 seconds
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Prabhat things\docs+college_material\unity\first_game_Cubi CUbe\Cubi Cube2.0\play without install\Cubi Cube_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.257000 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ebc -> priority: 1 
+  Thread -> id: 3850 -> priority: 1 
+  Thread -> id: 40dc -> priority: 1 
+  Thread -> id: 3e20 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.640700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.177000 ms (FindLiveObjects: 0.018600 ms CreateObjectMapping: 0.011100 ms MarkObjects: 0.140200 ms  DeleteObjects: 0.006400 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.967500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.498700 ms (FindLiveObjects: 0.051100 ms CreateObjectMapping: 0.042600 ms MarkObjects: 0.392200 ms  DeleteObjects: 0.011000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.841500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.363900 ms (FindLiveObjects: 0.037200 ms CreateObjectMapping: 0.030400 ms MarkObjects: 0.286500 ms  DeleteObjects: 0.008300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.220700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 388.
+Total: 0.606700 ms (FindLiveObjects: 0.089500 ms CreateObjectMapping: 0.056600 ms MarkObjects: 0.446400 ms  DeleteObjects: 0.012200 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.401300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.579000 ms (FindLiveObjects: 0.062600 ms CreateObjectMapping: 0.050400 ms MarkObjects: 0.451100 ms  DeleteObjects: 0.013000 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.288400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.579000 ms (FindLiveObjects: 0.062000 ms CreateObjectMapping: 0.050900 ms MarkObjects: 0.452800 ms  DeleteObjects: 0.011600 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.208800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.609100 ms (FindLiveObjects: 0.059600 ms CreateObjectMapping: 0.050500 ms MarkObjects: 0.484900 ms  DeleteObjects: 0.011900 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.319400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.613300 ms (FindLiveObjects: 0.058300 ms CreateObjectMapping: 0.073500 ms MarkObjects: 0.467500 ms  DeleteObjects: 0.012500 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.160700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.543700 ms (FindLiveObjects: 0.059500 ms CreateObjectMapping: 0.064200 ms MarkObjects: 0.407100 ms  DeleteObjects: 0.010800 ms)
+
+GAme Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.297700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.553100 ms (FindLiveObjects: 0.056400 ms CreateObjectMapping: 0.044500 ms MarkObjects: 0.438600 ms  DeleteObjects: 0.011700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.631800 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 613.
+Total: 0.336500 ms (FindLiveObjects: 0.040200 ms CreateObjectMapping: 0.019800 ms MarkObjects: 0.211200 ms  DeleteObjects: 0.064100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.026100 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.835600 ms (FindLiveObjects: 0.037600 ms CreateObjectMapping: 0.023800 ms MarkObjects: 0.305100 ms  DeleteObjects: 0.467600 ms)
+
+QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
